@@ -25,7 +25,7 @@ const ContactSection = () => {
       name: "GitHub",
       value: "github.com/srihariSteyp",
       icon: <Github className="h-6 w-6" />,
-      href: "https://github.com/srihariSteyp",
+      href: "https://github.com/dev-srihari",
       color: "hover:text-gray-400",
       external: true, // Mark as external link
     },
