@@ -23,7 +23,7 @@ const ContactSection = () => {
     },
     {
       name: "GitHub",
-      value: "github.com/srihariSteyp",
+      value: "github.com/dev-srihari",
       icon: <Github className="h-6 w-6" />,
       href: "https://github.com/dev-srihari",
       color: "hover:text-gray-400",
