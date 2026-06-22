@@ -8,7 +8,7 @@ interface SocialLinksProps {
 
 const SocialLinks: React.FC<SocialLinksProps> = ({ vertical = false }) => {
   const socialLinks = [
-    { icon: <Github size={20} />, href: "https://github.com", label: "GitHub" },
+    { icon: <Github size={20} />, href: "https://github.com/dev-srihari", label: "GitHub" },
     { icon: <Linkedin size={20} />, href: "https://steyp.com", label: "Steyp" },
     { icon: <Youtube size={20} />, href: "https://www.youtube.com/@CodeGenesis335", label: "Youtube Channel" },
     { icon: <FileText size={20} />, href: "/resume.pdf", label: "Resume" },
